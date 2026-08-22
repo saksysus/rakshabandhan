@@ -1,334 +1,239 @@
 # 🧿 RAKHI RACING
 
-## A Rakhi That You Can Tap. A Story That You Can Relive.
+### *A Rakhi that doesn't just tie a bond — it unlocks one.*
 
-> **What if a Rakhi wasn't just something you wore for a day --- but
-> something that could unlock an entire world of memories?**
+Every Raksha Bandhan, we follow the same beautiful tradition.
 
-**Rakhi Racing** is a new-age Raksha Bandhan experience that transforms
-a traditional Rakhi into a **personalized digital memory portal**.
+We dress up.
+We do the rituals.
+We exchange sweets.
+And, most importantly, we tie a Rakhi around our brother's wrist.
 
-Instead of giving my brother another ordinary Rakhi, I wanted to create
-something that combines **emotion, creativity and engineering**.
+It's a tradition that has been repeated year after year.
 
-The idea:
+But this year, I wanted to do something different.
 
-**Wear the Rakhi → Tap the Rakhi → Unlock our story.**
+I didn't want to replace the tradition.
 
-And because my brother loves hill-climbing racing games, the entire
-experience is designed as a **memory racing journey** --- where every
-checkpoint represents a different chapter of our lives together.
+**I wanted to add something to it.**
 
-------------------------------------------------------------------------
+So I asked myself:
 
-# 🏁 THE IDEA
+> **What if the Rakhi could hold more than just a thread?**
 
-A normal Rakhi says:
+What if tapping it could open our childhood?
 
-> **"Happy Raksha Bandhan."**
+Our photos.
 
-This Rakhi says:
+Our videos.
 
-> **"Come relive our entire journey." ❤️**
+Our stupid fights.
 
-The physical Rakhi contains a tiny **NFC tag**.
+Our best memories.
 
-But the NFC tag isn't the gift.
+And a message that I couldn't fit into a normal Rakhi card.
 
-It is the **key**.
+That's how **Rakhi Racing** was born.
 
-When my brother taps the Rakhi with his phone, the key opens a
-personalized digital experience containing:
+---
 
-📸 Our childhood photos\
-🎥 Our videos\
-😂 Our funniest memories\
-🎮 A brother-sister quiz\
-💌 A message from me\
-🏁 A final surprise
+## 💡 THE IDEA
 
-The result is a Rakhi that connects the **physical world to our shared
-digital memories**.
+**Rakhi Racing** is a personalized Raksha Bandhan experience that combines a traditional Rakhi with **NFC technology and a digital memory journey**.
 
-------------------------------------------------------------------------
+The Rakhi contains a tiny NFC tag.
 
-# 🚗 WHY "RAKHI RACING"?
+When my brother taps it with his phone:
 
-Every sibling relationship is basically a race.
-
-There are:
-
--   🚦 Starting points
--   🏎️ Random adventures
--   💥 Crashes
--   😂 Unexpected turns
--   🏁 Checkpoints
--   ❤️ And a finish line that never really ends
-
-So instead of presenting the memories as a normal photo gallery, the
-website turns them into a **game-like journey**.
-
-### The brother doesn't simply scroll through memories.
-
-### He progresses through them.
-
-------------------------------------------------------------------------
-
-# 🎮 THE EXPERIENCE
-
-``` text
-                    🧿 RAKHI
-                       │
-                       │ TAP
-                       ▼
-                 📱 PHONE
-                       │
-                       ▼
-              🏁 RAKHI RACING
-                       │
-                 START THE RACE
-                       │
-                       ▼
-              🚩 CHECKPOINT 01
-                 THE BEGINNING
-                       │
-                       ▼
-              📸 CHILDHOOD
-                       │
-                       ▼
-              🚩 CHECKPOINT 02
-              CHILDHOOD CHAOS
-                       │
-                       ▼
-                  😂 MEMORIES
-                       │
-                       ▼
-              🚩 CHECKPOINT 03
-               MEMORY REPLAY
-                       │
-                       ▼
-                  🎥 VIDEOS
-                       │
-                       ▼
-              🚩 CHECKPOINT 04
-               BEST MOMENTS
-                       │
-                       ▼
-                  📸 PHOTOS
-                       │
-                       ▼
-              🎮 BROTHER QUIZ
-                       │
-                       ▼
-              💌 MESSAGE FROM ME
-                       │
-                       ▼
-                  🏁 FINISH
-                       │
-                       ▼
-             ❤️ LEVEL COMPLETE
+```text
+        🧿 RAKHI
+           │
+           │ TAP
+           ▼
+       📱 PHONE
+           │
+           ▼
+    🌐 MEMORY WORLD
+           │
+           ▼
+      🏁 RAKHI RACING
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+   📸 PHOTOS   🎥 VIDEOS
+     │           │
+     └─────┬─────┘
+           ▼
+      😂 MEMORIES
+           │
+           ▼
+       🎮 QUIZ
+           │
+           ▼
+       💌 MESSAGE
+           │
+           ▼
+       🏁 FINISH
 ```
 
-------------------------------------------------------------------------
+The NFC tag isn't the gift.
 
-# 🧿 WHAT MAKES IT DIFFERENT?
+**It's the key.**
 
-This isn't just:
+---
 
-**"Rakhi + NFC + Website."**
+# 🏎️ WHY RAKHI RACING?
 
-The idea is to create a **personalized memory experience** around the
-Rakhi.
+There was one more thing I wanted to make personal.
 
-### 1. The Rakhi becomes a physical key
+My brother loves **hill-climbing racing games**.
 
-The NFC tag turns an ordinary physical Rakhi into an entry point to
-something digital.
+So instead of creating a normal photo gallery, I turned the memories into a **racing journey**.
 
-### 2. The website becomes a memory journey
+Every memory becomes a checkpoint.
 
-Instead of a static gallery, memories are organized into checkpoints and
-levels.
+Every section becomes a level.
 
-### 3. The experience is personalized
+And the final message becomes the finish line.
 
-The photos, videos, jokes, messages and quiz are all created
-specifically for my brother.
+The idea is simple:
 
-### 4. The theme is based on him
+> **He isn't just scrolling through our memories.**
+>
+> **He's racing through them.**
 
-The hill-climbing racing concept isn't random.
+---
 
-It comes from something **he actually loves**.
+# 🎮 THE MEMORY JOURNEY
 
-That makes the experience personal rather than generic.
+### 🏁 START — YOUR BIGGEST ADVENTURE STARTS HERE
 
-### 5. It can grow every year
+The experience begins with a hill-climbing racing-inspired screen.
 
-The same idea can become an annual tradition.
+A vehicle.
 
-**2026 → Level 1**\
-**2027 → Level 2**\
-**2028 → Level 3**
+A hill.
 
-The memories can keep growing while the physical idea remains the same.
+A racing track.
 
-------------------------------------------------------------------------
-
-# 🌄 THE DIGITAL MEMORY WORLD
-
-## 🏁 START --- "YOUR BIGGEST ADVENTURE STARTS HERE"
-
-The first screen looks like a hill-climbing racing game.
-
-A vehicle is climbing a hill.
-
-The screen says:
-
-> **RAKHI RACING**
-
-> *Your biggest adventure starts here.*
-
-Then:
+And one button:
 
 **START THE RACE →**
 
-This is the entry point to the entire experience.
+---
 
-------------------------------------------------------------------------
+### 🚩 CHECKPOINT 01 — THE BEGINNING
 
-# 🚩 CHECKPOINT 01 --- THE BEGINNING
+The first level takes him back to our childhood.
 
-The first checkpoint takes the brother back to the beginning.
+Old photographs.
 
-Childhood photographs are displayed as memories.
+Old memories.
 
-Possible captions:
+Old versions of us.
 
-> *"Before we knew how annoying siblings could be..."*
+> *"Before we became experts at annoying each other..."*
 
-> *"The beginning of everything."*
+---
 
-> *"You were actually cute once." 😂*
+### 🚩 CHECKPOINT 02 — CHILDHOOD CHAOS
 
-------------------------------------------------------------------------
+The fun part.
 
-# 😂 CHECKPOINT 02 --- CHILDHOOD CHAOS
+Funny photographs.
 
-This section focuses on the moments that make sibling relationships
-unique.
-
-Funny photos.
-
-Embarrassing memories.
+Embarrassing moments.
 
 Inside jokes.
 
-Random moments.
+Sibling achievements.
 
-Game-style achievements can appear:
+```text
+🏆 ACHIEVEMENT UNLOCKED
 
-> **+100 XP**\
-> Survived another sibling fight.
+Survived another sibling fight
 
-> **ACHIEVEMENT UNLOCKED**\
-> Stole each other's food.
++100 XP
+```
 
-> **BONUS ROUND**\
-> Somehow still love each other.
+---
 
-------------------------------------------------------------------------
+### 🚩 CHECKPOINT 03 — MEMORY REPLAY
 
-# 🎥 CHECKPOINT 03 --- MEMORY REPLAY
+Photos aren't enough to capture everything.
 
-This is where the experience becomes more personal.
+So this checkpoint contains our **actual videos**.
 
-Instead of only looking at photographs, the brother can **watch actual
-moments** from our lives.
+Each video becomes a replay from our journey.
 
-The website will contain spaces for personally uploaded videos.
+> **▶ MEMORY REPLAY**
 
-Each video can appear as a racing-game replay:
+These aren't stock videos.
 
-> **MEMORY REPLAY**
+They're moments from our lives.
 
-**▶ PLAY**
+---
 
-The videos are not generated by AI or taken from stock libraries.
+### 🚩 CHECKPOINT 04 — BEST MOMENTS
 
-They are **our memories**.
+Our favorite memories become collectible-style cards.
 
-------------------------------------------------------------------------
+Each one can contain:
 
-# 📸 CHECKPOINT 04 --- BEST MOMENTS
+* 📸 Photo
+* 📅 Year
+* 📍 Location
+* 💬 Caption
+* ❤️ Memory
 
-The best memories are displayed as collectible cards.
+---
 
-Each card can contain:
+### 🎮 BONUS LEVEL — BROTHER QUIZ
 
--   Photograph
--   Year
--   Location
--   Memory title
--   Short caption
+One final challenge.
 
-For example:
+> **HOW WELL DO YOU ACTUALLY KNOW YOUR SISTER?**
 
-> **MEMORY #07**\
-> *The Trip That Went Completely Wrong* 😂
+A personalized quiz based on our relationship, habits, memories and inside jokes.
 
-------------------------------------------------------------------------
+At the end:
 
-# 🎮 CHECKPOINT 05 --- BROTHER QUIZ
-
-The brother gets one final challenge:
-
-> **HOW WELL DO YOU KNOW YOUR SISTER?**
-
-Questions can be based on personal memories, habits and inside jokes.
-
-The final score can be presented like a racing-game result:
-
-``` text
-━━━━━━━━━━━━━━━━━━━━
+```text
+━━━━━━━━━━━━━━━━━━
      RACE COMPLETE
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━
 
-      BROTHER SCORE
-
-        87 XP
+       87 XP
 
    MEMORY LEVEL:
       EXPERT 🏆
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━
 ```
 
-------------------------------------------------------------------------
+---
 
-# 💌 FINAL CHECKPOINT --- A MESSAGE FROM ME
+# 💌 FINAL CHECKPOINT
 
-After all the fun, the experience slows down.
+After all the racing, photos and jokes, the experience slows down.
 
-A final photograph.
+One photograph.
 
-A personal message.
+One message.
 
 No game.
 
-No jokes.
+Just us.
 
-Just the actual reason behind the Rakhi.
+> **BEFORE YOU FINISH THE RACE...**
 
-> **"Before you finish the race..."**
+This is where I get to say the things that don't always get said out loud.
 
-This becomes the emotional core of the project.
-
-------------------------------------------------------------------------
+---
 
 # 🏁 FINISH LINE
 
-The final screen completes the journey:
+The final screen:
 
 > **LEVEL COMPLETE 🏁**
 
@@ -336,344 +241,162 @@ The final screen completes the journey:
 
 > **Happy Raksha Bandhan ❤️**
 
-The final photograph can be one of the most meaningful brother-sister
-photographs.
+---
 
-------------------------------------------------------------------------
+# ⚙️ THE ENGINEERING BEHIND THE IDEA
 
-# 🔮 THE BIGGER IDEA
+The emotional experience is powered by a simple technical architecture.
 
-The most interesting part of this project is that the Rakhi does not
-have to end when Raksha Bandhan ends.
-
-It can become a **living memory archive**.
-
-Every year, a new checkpoint can be added.
-
-``` text
-2026
-│
-├── Childhood
-├── Funny Memories
-└── First Digital Rakhi
-
-2027
-│
-├── New Adventures
-├── New Photos
-└── New Videos
-
-2028
-│
-├── New Memories
-└── New Checkpoint
+```text
+┌──────────────────────────┐
+│      PHYSICAL RAKHI      │
+│                          │
+│        NFC TAG           │
+└────────────┬─────────────┘
+             │
+             │ NFC
+             ▼
+┌──────────────────────────┐
+│       SMARTPHONE         │
+│      NFC READER          │
+└────────────┬─────────────┘
+             │
+             │ URL
+             ▼
+┌──────────────────────────┐
+│      MEMORY WEBSITE      │
+│                          │
+│ Photos │ Videos │ Quiz   │
+│ Story  │ Message │ UI    │
+└──────────────────────────┘
 ```
 
-Eventually, the Rakhi becomes a physical symbol connected to a
-**timeline of an entire sibling relationship**.
+The NFC tag stores the website URL rather than the actual multimedia.
 
-------------------------------------------------------------------------
+So the flow is:
 
-# ⚙️ NOW, THE ENGINEERING BEHIND IT
-
-The emotional idea is only one half of the project.
-
-The engineering makes the experience possible.
-
-## System Architecture
-
-``` text
-┌───────────────────────────┐
-│       PHYSICAL RAKHI      │
-│                           │
-│       NFC TAG             │
-└─────────────┬─────────────┘
-              │
-              │ NFC
-              ▼
-┌───────────────────────────┐
-│       SMARTPHONE           │
-│      NFC READER            │
-└─────────────┬─────────────┘
-              │
-              │ URL
-              ▼
-┌───────────────────────────┐
-│      MEMORY WEBSITE       │
-│                           │
-│  Photos │ Videos │ Quiz   │
-│  Story  │ Message │ UI    │
-└───────────────────────────┘
+```text
+NFC TAG
+   ↓
+NDEF URL
+   ↓
+SMARTPHONE
+   ↓
+WEBSITE
+   ↓
+DIGITAL MEMORIES
 ```
 
-------------------------------------------------------------------------
+---
 
-# 📡 NFC IMPLEMENTATION
+# 📡 NFC
 
-An NFC tag such as **NTAG213** can be embedded inside the Rakhi.
+An NFC tag such as **NTAG213** can be embedded into the Rakhi.
 
-The tag stores the website URL using an NDEF record.
+It can contain a URL such as:
 
-Example:
-
-``` text
+```text
 https://your-website.com/rakhi
 ```
 
-The tag does **not** store the actual photos or videos.
+The tag acts as a physical trigger that connects the traditional Rakhi to the digital experience.
 
-Instead:
+---
 
-``` text
-NFC
- ↓
-URL
- ↓
-Website
- ↓
-Digital Memories
-```
+# 🌐 DIGITAL EXPERIENCE
 
-This is important because NFC tags have very limited storage compared
-with the amount of data required for multimedia.
+The prototype website is designed using **Canva Website**.
 
-------------------------------------------------------------------------
+The site contains:
 
-# 🌐 WEBSITE
+* Racing-inspired landing page
+* Memory checkpoints
+* Photo sections
+* Video sections
+* Interactive-looking game elements
+* Brother quiz
+* Personal message
+* Finish-line screen
 
-The initial prototype uses **Canva Website** to create the digital
-experience.
+The website is designed **mobile-first**, because the primary interaction is:
 
-The website contains:
+**Tap Rakhi → Phone → Memory Website**
 
--   Hero section
--   Racing-style interface
--   Memory checkpoints
--   Photo placeholders
--   Video placeholders
--   Interactive-looking game sections
--   Personal message
--   Finish-line section
+---
 
-The website is designed **mobile-first** because the primary interaction
-happens on a smartphone immediately after tapping the Rakhi.
+# 📸 PERSONAL MEMORIES
 
-------------------------------------------------------------------------
+All photographs and videos are personally selected and uploaded.
 
-# 📸 MEDIA HANDLING
+The website contains empty media areas so that the actual memories can be added later.
 
-The photos and videos are personally selected and uploaded by the
-creator.
+This means the technology creates the framework, but **the story comes from us.**
 
-The website design contains empty media areas so that personal content
-can be added later.
+---
 
-### Photos
+# 🔮 THE IDEA DOESN'T HAVE TO END IN 2026
 
-``` text
-Upload Photo
-      ↓
-Replace Placeholder
-      ↓
-Memory Card
-```
+The most exciting part is that the same concept can continue.
 
-### Videos
+### 2026
 
-``` text
-Upload Video
-      ↓
-Replace Video Placeholder
-      ↓
-Memory Replay
-```
+**Level 01 — The Beginning**
 
-This keeps the experience personal and avoids replacing real memories
-with generic stock content.
+### 2027
 
-------------------------------------------------------------------------
+**Level 02 — Another Year, Another Adventure**
 
-# 🔗 DATA FLOW
+### 2028
 
-The complete technical flow is:
+**Level 03 — Still Racing Together**
 
-``` text
-NFC TAG
-   │
-   │ NDEF URL
-   ▼
-SMARTPHONE
-   │
-   │ HTTPS REQUEST
-   ▼
-WEB SERVER / WEBSITE
-   │
-   ├── Photos
-   ├── Videos
-   ├── Text
-   ├── Quiz
-   └── Animations
-```
+The physical Rakhi can become a gateway to an evolving digital archive of sibling memories.
 
-------------------------------------------------------------------------
+Instead of creating a new experience every year from scratch, the story can keep growing.
 
-# 🛠️ HARDWARE
+---
 
-### Required
+# 🌟 WHY I BUILT THIS
 
--   Rakhi
--   NFC tag
--   NFC-enabled smartphone
+Technology is usually used to make things faster, smarter or more efficient.
 
-### Optional Future Hardware
+For this project, I wanted to use technology for something different:
 
-The concept could later be expanded using:
+**to make a tradition more personal.**
 
--   ESP32
--   LEDs
--   NFC reader
--   Microcontroller
--   Sensors
--   Custom PCB
+I didn't want to replace a tradition that already means something.
 
-For the current version, however, the NFC tag itself is sufficient.
+I wanted to preserve it — and give it a new layer.
 
-------------------------------------------------------------------------
+A small NFC tag.
 
-# 💻 SOFTWARE
+A website.
 
-### Current Prototype
+Some photos.
 
--   Canva Website
--   NFC NDEF URL
--   Smartphone NFC capability
--   Browser
+Some videos.
 
-### Future Custom Version
+A lot of memories.
 
-The website could eventually be rebuilt using:
+And one Rakhi.
 
--   HTML
--   CSS
--   JavaScript
--   React
--   Firebase / Supabase
--   Cloud storage
--   Authentication
+---
 
-This would allow features such as:
+# ❤️ THE IDEA IN ONE LINE
 
--   Password-protected memories
--   Dynamic content
--   Visitor-uploaded memories
--   Database-backed timelines
--   Advanced animations
--   User-specific NFC URLs
+> **Every year, we tie a Rakhi. This year, I made it possible to tap into the memories behind it.**
 
-------------------------------------------------------------------------
+---
 
-# 🧪 TESTING
+## 👩‍💻 PROJECT
 
-Before gifting the Rakhi:
+**Project:** Rakhi Racing — NFC Memory Rakhi
+**Creator:** Sakshi Gupta
+**Occasion:** Raksha Bandhan 2026
+**Core Technologies:** NFC + Web + Multimedia
+**Concept:** Traditional Rakhi × Digital Memory Experience
 
--   [ ] NFC tag is detected
--   [ ] Correct URL is stored
--   [ ] Website opens after tapping
--   [ ] Website works on mobile
--   [ ] All photos load
--   [ ] All videos play
--   [ ] Buttons work
--   [ ] Quiz content is correct
--   [ ] Personal message is visible
--   [ ] Final section works
--   [ ] Website works on mobile data
--   [ ] NFC is tested after final programming
-
-------------------------------------------------------------------------
-
-# 🔐 PRIVACY
-
-Because the website contains personal memories:
-
--   Avoid sensitive personal information.
--   Avoid publishing addresses or phone numbers.
--   Only upload photographs and videos that are appropriate to share.
--   Review the website's sharing settings before publishing.
--   Consider a private or unlisted approach if the platform supports it.
-
-------------------------------------------------------------------------
-
-# 🚀 FUTURE VISION
-
-The concept can evolve into more than a personal project.
-
-A future version could become a platform for **Digital Memory Rakhis**.
-
-Possible features:
-
-### 🧿 Personalized NFC Rakhis
-
-Each Rakhi gets a unique NFC identity.
-
-### 🔐 Private Memory Vaults
-
-Each tag opens a specific private memory space.
-
-### 📅 Annual Memory Updates
-
-The same NFC tag continues to unlock new memories every year.
-
-### 👨‍👩‍👧 Family Memory Network
-
-Different NFC objects could unlock different family stories.
-
-### 🎁 NFC-Based Smart Gifts
-
-The same concept could be used for:
-
--   Birthdays
--   Anniversaries
--   Farewell gifts
--   Friendship gifts
--   Wedding gifts
--   Graduation gifts
-
-------------------------------------------------------------------------
-
-# 🌟 PROJECT PHILOSOPHY
-
-Technology is usually used to make things faster.
-
-This project uses technology to make something **more meaningful**.
-
-The NFC tag is tiny.
-
-The website is digital.
-
-The technology is simple.
-
-But the thing it unlocks is something technology cannot create:
-
-**memories.**
-
-------------------------------------------------------------------------
-
-# ❤️ ONE-LINE SUMMARY
-
-> **Rakhi Racing is a personalized NFC-enabled Raksha Bandhan experience
-> that transforms a traditional Rakhi into a digital gateway to a
-> sibling's memories, stories and emotions.**
-
-------------------------------------------------------------------------
-
-# 👩‍💻 PROJECT
-
-**Project Name:** Rakhi Racing --- NFC Memory Rakhi\
-**Creator:** Sakshi Gupta\
-**Occasion:** Raksha Bandhan 2026\
-**Core Idea:** Physical Rakhi + NFC + Digital Memory Experience
-
-------------------------------------------------------------------------
+---
 
 ## 🏁 FINAL THOUGHT
 
